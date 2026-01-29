@@ -3,7 +3,7 @@
 Software Engineer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://sajithnuskiporfolio-git-main-sajith-nuskis-projects.vercel.app)                                                 
-- 🌱 I’m currently learning DSA and Integrating AI to my workflow
+- 🌱 I’m currently learning AI & Cloud Engineering
 - Web Developer at [<img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white">](https://www.fiverr.com/s/kLDkvZo) (Level 2 Seller)
 - Social Presence
   <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sajith-nuski/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/sajith_nuskii?igsh=MWZrZmVhYm1nb2lsaw==) <br/> [<im src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>](https://www.facebook.com/share/198MyRbDo1/)
