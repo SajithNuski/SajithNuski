@@ -64,7 +64,7 @@
 ---
 
 ### 📊 GitHub Stats
-![snake gif](https://github.com/sajithnuski/sajithnuski/blob/output/github-contribution-grid-snake-dark.svg)
+[![Sajith's GitHub Contribution Graph](https://ghchart.rshah.org/39d353/sajithnuski)](https://github.com/sajithnuski)
 
 ![Sajith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sajithnuski&bg_color=000000&color=ffffff&line=9d9e4c&point=eeff00&area=true&hide_border=true)
 
