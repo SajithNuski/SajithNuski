@@ -64,13 +64,14 @@
 ---
 
 ### 📊 GitHub Stats
-[![Sajith's GitHub Contribution Graph](https://ghchart.rshah.org/39d353/sajithnuski)](https://github.com/sajithnuski)
+<!-- Contribution Calendar -->
+![Sajith's GitHub Contributions](https://ghchart.rshah.org/39d353/sajithnuski)
 
-![Sajith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sajithnuski&bg_color=000000&color=ffffff&line=9d9e4c&point=eeff00&area=true&hide_border=true)
+<!-- Activity Graph (the colorful one you already like) -->
+![Sajith's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sajithnuski&bg_color=000000&color=ffffff&line=39d353&point=eeff00&area=true&hide_border=true)
 
+<!-- LeetCode Stats -->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sajith_nuski?theme=dark&font=Halant&ext=contest)
-
-![](https://komarev.com/ghpvc/?username=sajithnuski&color=blue)
 
 ---
 
