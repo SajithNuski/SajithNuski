@@ -64,7 +64,7 @@
 ---
 
 ### 📊 GitHub Stats
-[![Sajith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sajithnuski&bg_color=000000&color=ffffff&line=9d9e4c&point=eeff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Sajith's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sajithnuski&bg_color=000000&color=ffffff&line=39d353&point=00ff41&area=true&hide_border=true)
 
 <!-- LeetCode Stats -->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sajith_nuski?theme=dark&font=Halant&ext=contest)
