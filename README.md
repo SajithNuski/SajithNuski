@@ -65,7 +65,7 @@
 
 ### 📊 GitHub Stats
 <!-- Contribution Calendar -->
-![Sajith's GitHub Contributions (Dark)](https://ghchart.rshah.org/0d1117/sajithnuski)
+![Sajith's GitHub Contributions](https://ghchart.rshah.org/000000/sajithnuski)
 
 <!-- Activity Graph (the colorful one you already like) -->
 ![Sajith's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sajithnuski&bg_color=000000&color=ffffff&line=39d353&point=eeff00&area=true&hide_border=true)
