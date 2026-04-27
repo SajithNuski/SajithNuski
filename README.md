@@ -68,6 +68,8 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sajith_nuski?theme=dark&font=Halant&ext=contest)
 
+![](https://komarev.com/ghpvc/?username=sajithnuski&color=blue)
+
 ---
 
 ### ⚡ Current Focus
