@@ -64,6 +64,10 @@
 ---
 
 ### 📊 GitHub Stats
+<!-- Calendar Graph - Black Background with Green Dots -->
+![Sajith's GitHub Contribution Calendar](https://ghchart.rshah.org/000000/sajithnuski)
+
+<!-- Activity Graph - Black Background with Green Theme -->
 ![Sajith's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sajithnuski&bg_color=000000&color=ffffff&line=39d353&point=00ff41&area=true&hide_border=true)
 
 <!-- LeetCode Stats -->
