@@ -64,19 +64,13 @@
 ---
 
 ### 📊 GitHub Stats
+![Sajith's GitHub Contribution Graph](https://ghchart.rshah.org/00ff41/sajithnuski)
+
 ![Sajith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sajithnuski&bg_color=000000&color=ffffff&line=9d9e4c&point=eeff00&area=true&hide_border=true)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sajith_nuski?theme=dark&font=Halant&ext=contest)
 
-[![](https://komarev.com/ghpvc/?username=sajithnuski&color=blue)](https://github-readme-activity-graph.vercel.app/graph?username=sajithnuski
-  &bg_color=000000    ← black background
-  &color=00ff41       ← matrix green text/labels
-  &line=00ff41        ← green graph line
-  &point=ffffff       ← white data points
-  &area_color=003b00  ← dark green area fill
-  &area=true
-  &hide_border=true
-  &title_color=00ff41 ← green title)
+![](https://komarev.com/ghpvc/?username=sajithnuski&color=blue)
 
 ---
 
