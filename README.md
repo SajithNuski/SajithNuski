@@ -51,7 +51,7 @@
 </p>
 ---
 ### 📊 GitHub Stats
-![Sajith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sajithnuski&bg_color=000000&color=ffffff&line=9d9e4c&point=eeff00&area=true&hide_border=true)
+![Sajith's github activity graph](https://github-readme-activity-graph.vercel.app/graphusername=sajithnuski&bg_color=000000&color=ffffff&line=9d9e4c&point=eeff00&area=true&hide_border=true)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sajith_nuski?theme=dark&font=Halant&ext=contest)
 ---
 ### ⚡ Current Focus
