@@ -1,6 +1,6 @@
 <div align="center">
 
-<img align="right" width="150" height="150" style="border-radius:50%" src="https://github.com/sajithnuski.png"/>
+<img margin-top="5px" align="center" width="150" height="150" style="border-radius:50%" src="https://github.com/sajithnuski.png"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+full-stack+web+applications;Integrating+AI+into+real-world+apps;Fiverr+Level+2+Seller+%F0%9F%9A%80;Cloud+%26+AI+Engineering+in+progress+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
 
