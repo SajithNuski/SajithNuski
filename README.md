@@ -117,7 +117,7 @@ const sajith = {
   <a href="https://www.fiverr.com/s/kLDkvZo">
     <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
   </a>
-  <a href="https://sajithnuskiporfolio-git-main-sajith-nuskis-projects.vercel.app">
+  <a href="https://sajithnuski.is-a.dev">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
