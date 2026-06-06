@@ -25,7 +25,7 @@ const sajith = {
 
 <img align="right" width="300" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"/>
 
-- 🔭 &nbsp;Check out my [**Portfolio**](https://sajithnuskiporfolio-git-main-sajith-nuskis-projects.vercel.app)
+- 🔭 &nbsp;Check out my [**Portfolio**](https://sajithnuski.is-a.dev/)
 - 🌱 &nbsp;Currently mastering **AI + Cloud Engineering**
 - 💼 &nbsp;Freelancing on **Fiverr** as a Level 2 Seller
 - 🎓 &nbsp;BSc in **Industrial Information Technology**
