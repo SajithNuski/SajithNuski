@@ -18,7 +18,7 @@ const sajith = {
   freelance: "Fiverr Level 2 Seller ⭐",
   stack    : ["React", "Node.js", "Python", "MongoDB", "Firebase"],
   focus    : ["AI Integration", "Cloud Deployment", "Scalable Systems"],
-  portfolio: "https://sajithnuskiporfolio-git-main-sajith-nuskis-projects.vercel.app",
+  portfolio: "https://sajithnuski.is-a.dev",
   status   : "Open to internship opportunities 🎯",
 };
 ```
