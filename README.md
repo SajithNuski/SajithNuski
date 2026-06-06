@@ -1,61 +1,133 @@
-## 👋 Hi, I'm Sajith Nuski
-🚀 Full-Stack Developer (React & Node.js)  
-🤖 Exploring AI, Cloud & Intelligent Applications  
-<img align="right" width="320" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Portfolio: https://sajithnuskiporfolio-git-main-sajith-nuskis-projects.vercel.app  
-- 🌱 Currently learning: AI + Cloud Engineering  
-- 💼 Freelance Developer @ Fiverr (Level 2 Seller)  
-- ⚡ Building real-world web applications with scalable backend systems  
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sajith%20Nuski&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20%26%20Cloud%20Engineer&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+full-stack+web+applications;Integrating+AI+into+real-world+apps;Fiverr+Level+2+Seller+%F0%9F%9A%80;Cloud+%26+AI+Engineering+in+progress+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
+
+</div>
+
 ---
-### 🌐 Connect with Me
-<p align="left">
+
+## 🧬 About Me
+
+```ts
+const sajith = {
+  name     : "Sajith Nuski",
+  role     : "Full-Stack Developer → AI & Cloud Engineer",
+  edu      : "Industrial IT @ Uva Wellassa University",
+  freelance: "Fiverr Level 2 Seller ⭐",
+  stack    : ["React", "Node.js", "Python", "MongoDB", "Firebase"],
+  focus    : ["AI Integration", "Cloud Deployment", "Scalable Systems"],
+  portfolio: "https://sajithnuskiporfolio-git-main-sajith-nuskis-projects.vercel.app",
+  status   : "Open to internship opportunities 🎯",
+};
+```
+
+<img align="right" width="300" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"/>
+
+- 🔭 &nbsp;Check out my [**Portfolio**](https://sajithnuskiporfolio-git-main-sajith-nuskis-projects.vercel.app)
+- 🌱 &nbsp;Currently mastering **AI + Cloud Engineering**
+- 💼 &nbsp;Freelancing on **Fiverr** as a Level 2 Seller
+- 🎓 &nbsp;BSc in **Industrial Information Technology**
+- ⚡ &nbsp;Building scalable, intelligent web applications
+- 📫 &nbsp;Let's connect on [LinkedIn](https://www.linkedin.com/in/sajith-nuski/)
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,python,js,ts,express,html,css&theme=dark"/>
+</p>
+
+### Databases & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,azure,vercel,netlify&theme=dark"/>
+</p>
+
+### Tools & Design
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,ps,ai&theme=dark"/>
+</p>
+
+---
+
+## 🖥️ Workspace
+
+<p>
+  <img src="https://img.shields.io/badge/AMD-Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NVIDIA-GTX_1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sajithnuski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajithnuski&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sajithnuski&theme=tokyonight&hide_border=true&background=0d1117" width="49%"/>
+
+</div>
+
+### 🧩 Contribution Graph
+
+[![Sajith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sajithnuski&bg_color=0d1117&color=a78bfa&line=6d28d9&point=c4b5fd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### ⚔️ LeetCode
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/sajith_nuski?theme=dark&font=Halant&ext=contest)
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sajithnuski/sajithnuski/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sajithnuski/sajithnuski/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sajithnuski/sajithnuski/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+---
+
+## 🎯 Current Focus
+
+```
+🔹 Building AI-integrated full-stack web applications
+🔹 Deepening expertise in cloud deployment (Azure · Firebase · Netlify · Vercel)
+🔹 Pursuing software engineering internship opportunities
+🔹 Growing freelance portfolio on Fiverr
+```
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/sajith-nuski/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/sajith_nuskii">
-    <img src="https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.fiverr.com/s/kLDkvZo">
     <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
   </a>
+  <a href="https://sajithnuskiporfolio-git-main-sajith-nuskis-projects.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
----
-### 🧠 Tech Stack
-<p align="left">
-  <img height="45" src="https://img.icons8.com/color/48/python.png"/>
-  <img height="45" src="https://img.icons8.com/color/48/javascript.png"/>
-  <img height="45" src="https://img.icons8.com/color/48/react-native.png"/>
-  <img height="45" src="https://img.icons8.com/color/48/nodejs.png"/>
-  <img height="45" src="https://img.icons8.com/color/48/html-5.png"/>
-  <img height="45" src="https://img.icons8.com/color/48/css3.png"/>
-  <img height="45" src="https://img.icons8.com/color/48/mysql-logo.png"/>
-  <img height="45" src="https://img.icons8.com/color/48/mongodb.png"/>
-  <img height="45" src="https://img.icons8.com/color/48/google-firebase-console.png"/>
-</p>
----
-### ⚙️ Tools & IDEs
-<p align="left">
-  <img height="45" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
-  <img height="45" src="https://img.icons8.com/color/48/git.png"/>
-  <img height="45" src="https://img.icons8.com/color/48/figma--v1.png"/>
-  <img height="45" src="https://img.icons8.com/color/48/adobe-illustrator--v1.png"/>
-  <img height="45" src="https://img.icons8.com/color/48/adobe-photoshop.png"/>
-  <img height="45" src="https://img.icons8.com/fluency/48/canva.png"/>
-</p>
----
-### 💻 Workspace
-<p align="left">
-  <img src="https://img.shields.io/badge/AMD-Ryzen_7_3800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-</p>
----
-### 📊 GitHub Stats
-![Sajith's github activity graph](https://github-readme-activity-graph.vercel.app/graphusername=sajithnuski&bg_color=000000&color=ffffff&line=9d9e4c&point=eeff00&area=true&hide_border=true)
-![LeetCode Stats](https://leetcard.jacoblin.cool/sajith_nuski?theme=dark&font=Halant&ext=contest)
----
-### ⚡ Current Focus
-- Building full-stack applications  
-- Integrating AI into web apps  
-- Learning cloud deployment (Azure / Firebase / Netlify)  
----
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=sajithnuski&color=6d28d9&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
