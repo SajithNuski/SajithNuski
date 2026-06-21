@@ -71,14 +71,6 @@ const sajith = {
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sajith_nuski?theme=dark&font=Halant&ext=contest)
 
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sajithnuski/sajithnuski/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sajithnuski/sajithnuski/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sajithnuski/sajithnuski/output/github-contribution-grid-snake.svg"/>
-</picture>
-
 ---
 
 ## 🎯 Current Focus
