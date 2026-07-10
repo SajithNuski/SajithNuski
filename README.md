@@ -28,7 +28,7 @@ const sajith = {
 - 🔭 &nbsp;Check out my [**Portfolio**](https://sajithnuski.is-a.dev/)
 - 🌱 &nbsp;Currently mastering **AI + Cloud Engineering**
 - 💼 &nbsp;Freelancing on **Fiverr** as a Level 2 Seller
-- 🎓 &nbsp;BSc in **Industrial Information Technology** at UWU
+- 🎓 &nbsp;BSc in **Industrial Information Technology** at Uva Wellassa University
 - ⚡ &nbsp;Building scalable, intelligent web applications
 - 📫 &nbsp;Let's connect on [LinkedIn](https://www.linkedin.com/in/sajith-nuski/)
 
