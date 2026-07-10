@@ -14,10 +14,10 @@
 const sajith = {
   name     : "Sajith Nuski",
   role     : "Full-Stack Developer → AI & Cloud Engineer",
-  edu      : "Industrial IT @ Uva Wellassa University",
+  edu      : "Industrial Information Technology @ Uva Wellassa University",
   freelance: "Fiverr Level 2 Seller ⭐",
   stack    : ["React", "Node.js", "Python", "MongoDB", "Firebase"],
-  focus    : ["AI Integration", "Cloud Deployment", "Scalable Systems"],
+  focus    : ["AI Ingineer", "Cloud Deployment", "Scalable Systems", "SaaS Applications"],
   portfolio: "https://sajithnuski.is-a.dev",
   status   : "Open to internship opportunities 🎯",
 };
