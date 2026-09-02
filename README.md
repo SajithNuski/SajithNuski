@@ -25,7 +25,7 @@ const sajith = {
 
 <img align="right" width="300" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"/>
 
-- 🔭 &nbsp;Check out my [**Portfolio**](https://sajithnuski.is-a.dev/)
+- 🔭 &nbsp;Check out my [**Portfolio**](https://sajithnuski.is-a.dev)
 - 🌱 &nbsp;Currently mastering **AI + Cloud Engineering**
 - 💼 &nbsp;Freelancing on **Fiverr** as a Level 2 Seller
 - 🎓 &nbsp;BSc in **Industrial Information Technology** at Uva Wellassa University
@@ -65,7 +65,7 @@ const sajith = {
 
 ### 🧩 Contribution Graph
 
-[![Sajith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sajithnuski&bg_color=0d1117&color=a78bfa&line=6d28d9&point=c4b5fd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sajith's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sajithnuski&bg_color=0d1117&color=a78bfa&line=6d28d9&point=c4b5fd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### ⚔️ LeetCode
 
