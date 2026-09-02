@@ -65,7 +65,7 @@ const sajith = {
 
 ### 🧩 Contribution Graph
 
-[![Sajith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sajithnuski&bg_color=0d1117&color=a78bfa&line=6d28d9&point=c4b5fd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sajith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sajithnuski&bg_color=0d1117&color=a78bfa&line=6d28d9&point=c4b5fd&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ### ⚔️ LeetCode
 
