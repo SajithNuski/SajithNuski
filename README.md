@@ -65,7 +65,17 @@ const sajith = {
 
 ### 🧩 Contribution Graph
 
-https://YOUR-APP.vercel.app/graph?username=sajithnuski&bg_color=0d1117&color=a78bfa&line=6d28d9&point=c4b5fd&area=true&hide_border=true
+![Streak](https://streak-stats.demolab.com/?user=SajithNuski&theme=dark&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=c4b5fd)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=SajithNuski&theme=dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=c4b5fd&show_icons=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SajithNuski&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=a78bfa)
+
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SajithNuski&theme=github_dark)
+
+![Contributions](https://ghchart.rshah.org/6d28d9/SajithNuski)
+
+
 
 ### ⚔️ LeetCode
 
