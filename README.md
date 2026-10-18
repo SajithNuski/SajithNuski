@@ -101,10 +101,3 @@ const sajith = {
   </a>
 </p>
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=sajithnuski&color=6d28d9&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
