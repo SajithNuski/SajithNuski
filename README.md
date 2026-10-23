@@ -1,36 +1,30 @@
-# Sajith_Nuski
+<div align="center">
 
-**Building full‑stack web apps with React, Node.js, TypeScript and Java**
+<img margin-top="5px" align="center" width="150" height="150" style="border-radius:50%" src="https://github.com/SajithNuski.png"/>
 
-I focus on creating interactive user experiences and scalable back‑ends using modern JavaScript ecosystems.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Developing+React+front%E2%80%91ends;Crafting+Node.js+APIs;Designing+UI%2FUX+prototypes;Exploring+Flutter+mobile+apps)](https://git.io/typing-svg)
 
-<p>
-  <img src="https://img.shields.io/github/followers/SajithNuski?style=for-the-badge&logo=github&color=e6edf3&labelColor=0d1117" alt="Followers"/>
-  <img src="https://komarev.com/ghpvc/?username=SajithNuski&color=e6edf3&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
-</p>
+</div>
 
-## About Me
+## 🧬 About Me
 
-I build responsive web applications that combine React front‑ends with Node.js back‑ends, leveraging TypeScript for type safety and Java for core services. The goal is to deliver fast, maintainable interfaces that scale with user demand.
+```ts
+const sajith_nuski = {
+  name     : "Sajith_Nuski",
+  role     : "👨‍💻 Code. Create. Repeat.",
+  stack    : ["JavaScript", "TypeScript", "HTML", "Java", "PHP"],
+  focus    : ["SajithNuski", "Flowcare-clinic-management-system", "zoro-fullstack-ecommerce", "Hello-md"],
+  portfolio: "https://sajithnuski.is-a.dev",
+  status   : "Open to opportunities 🎯",
+};
+```
 
-My background in graphic design informs the UI/UX decisions I make, ensuring each product is both visually appealing and intuitive. I experiment with layout, typography, and interaction patterns to enhance user satisfaction.
+<div align="center">
+  <img width="300" src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif"/>
+</div>
 
-Currently I am extending my skill set into mobile development with Flutter, aiming to translate the same quality of experience to cross‑platform apps.
-
-- Flowcare-clinic-management-system – JavaScript clinic management app
-- zoro-fullstack-ecommerce – JavaScript e‑commerce platform
-- Hello-md – TypeScript markdown utility
-- background-remover – JavaScript image background removal tool
-- Ai-text-transformer – JavaScript AI text transformation prototype
-
-**What I work on**
-
-<p>
-  <img src="https://img.shields.io/badge/Healthcare%20management%20web%20app-e6edf3?style=flat-square&labelColor=0d1117" alt="Healthcare management web app"/>
-  <img src="https://img.shields.io/badge/E%E2%80%91commerce%20platform-e6edf3?style=flat-square&labelColor=0d1117" alt="E‑commerce platform"/>
-  <img src="https://img.shields.io/badge/Markdown%20utilities-e6edf3?style=flat-square&labelColor=0d1117" alt="Markdown utilities"/>
-  <img src="https://img.shields.io/badge/AI%E2%80%91powered%20text%20transformation-e6edf3?style=flat-square&labelColor=0d1117" alt="AI‑powered text transformation"/>
-</p>
+- 🔭&nbsp; Check out my [Portfolio](https://sajithnuski.is-a.dev)
+- ⚡&nbsp; Building scalable, intelligent web applications
 
 ## 🛠️ Tech Stack
 
